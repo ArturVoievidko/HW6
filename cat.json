@@ -1,0 +1,36 @@
+{
+    "archive":[
+        ".zip",
+        ".gz",
+        ".tar"
+    ],
+    "music":[
+        ".mp3",
+        ".wav",
+        ".ogg",
+        ".amr"
+    ],
+    "documents":[
+        ".pdf",
+        ".doc",
+        ".docx",
+        ".txt",
+        ".xlsx",
+        ".pptx"
+    ],
+    "imagines": [
+        ".jpeg",
+        ".png",
+        ".jpg",
+        ".svg"
+    ],
+    "video":[
+        ".avi",
+        ".mp4",
+        ".mov",
+        ".mkv"
+    ],
+    "uknown": [
+        
+    ]
+}
